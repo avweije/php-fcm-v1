@@ -1,10 +1,10 @@
 {
-    "name": "lkaybob/php-fcm-v1",
+    "name": "avweije/php-fcm-v1",
     "type": "library",
     "description": "PHP Implementation of FCM HTTP v1 API",
     "tags": ["php","notifications","google","android","gcm","ios","firebase","FCM","Firebase Cloud Messaging",
         "push notification"],
-    "homepage": "https://github.com/lkaybob/phpFCMv1",
+    "homepage": "https://github.com/avweije/phpFCMv1",
     "license": "MIT",
     "authors": [
         {
